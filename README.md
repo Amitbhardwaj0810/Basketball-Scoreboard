@@ -4,7 +4,7 @@
 - This project involves designing and implementing a scoreboard monitoring system for basketball games. The system uses digital counters and display units to track scores, accept input and display information in real-time, ensuring an efficient and user-friendly experience during the game.
 
 ## Project Overview
-- Scoreboard Design: The project focuses on designing a digital system to monitor basketball game scores.
+- Scoreboard Design: The project focuses on designing a digital circuit to monitor basketball game scores.
 - Components Used: IC 7474, IC 7490 and Common Anode 7 Segment Displays
 - System Output: Users can observe real-time score updates on the 7 segment displays, confirming the functionality and integration of the components.
   
