@@ -24,4 +24,4 @@ Additional Resources
 
 - A PowerPoint presentation is available, providing a detailed overview of the project, including the problem statement, functional block diagrams, and interfacing details.
   
-This project utilizes knowledge of digital circuits and programming to create an effective scoreboard monitoring system, offering valuable insights into the practical application of digital system design.
+This project utilizes knowledge of digital circuits to create an effective scoreboard monitoring system, which has been implemented on a PCB(Printed Circuit Board). It offers valuable insights into the practical application of digital system design.
